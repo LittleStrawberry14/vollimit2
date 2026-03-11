@@ -35,7 +35,7 @@ You are free to copy, modify, and distribute the software as you wish ("copy it 
 ## Support the Developer
 If you find this utility helpful and want to support more vibecoded projects, feel free to drop some LTC here:
 
-**LTC Address:** `YOUR_LTC_WALLET_ADDRESS_HERE`
+**LTC Address:** `ltc1qhxhp64rdnx7r2ynljy3zj6xgzdw9cfvg5glzjt`
 
 ## Credits
 - **Developed by Gemini CLI (using the Gemini 3 model)** for the project owner **lilstrawbrry14**.
