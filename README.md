@@ -17,9 +17,8 @@ By enforcing a hard limit at the system level, the app protects both the user's 
 - **Persistent Foreground Service**: Utilizes a low-priority notification to maintain service integrity without cluttering the user's active notification space.
 - **Battery Optimization Compatibility**: Includes built-in logic to request battery optimization exemptions, ensuring 100% reliability on aggressive power-management systems (e.g., Android 14/15).
 - **Localized Interface**: Full support for **English** and **Arabic** (RTL), automatically adapting to the system locale.
-- **Modern Material 3 UI**: Features a clean, accessible interface with scale-based haptic/visual feedback on interactive elements.
 
-## F-Droid & Open Source Standards
+## Open Source Standards
 The codebase is structured for transparency and ease of audit:
 - **Zero Dependencies on Proprietary Blobs**: All assets and icons are locally hosted and optimized.
 - **Privacy-First**: No telemetry, no analytics, and no network permissions required.
@@ -31,10 +30,8 @@ This project is licensed under the **MIT License**.
 You are free to copy, modify, and distribute the software as you wish ("copy it and shit"). However, you **must** provide attribution to the original author (**lilstrawbrry14**) in any copies or substantial portions of the software.
 
 ## Credits
-- **Developed by Gemini CLI** for the project owner.
+- **Developed by Gemini CLI** for the project owner **lilstrawbrry14**.
 - Conceived and directed by **lilstrawbrry14**.
 
 ---
-*Note: This repository is currently private and will be transitioned to a public open-source license in the future.*
-
 *This README was written by Gemini.*
