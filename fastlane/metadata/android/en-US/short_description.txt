@@ -1,0 +1,1 @@
+Enforce a maximum media volume limit to protect hearing and hardware.
