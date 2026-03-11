@@ -2,31 +2,30 @@
 
 ![App Icon](app/src/main/res/drawable/ic_launcher_new.png)
 
-A lightweight, efficient Android application to enforce a maximum volume limit on your device.
+A lightweight, efficient Android utility designed to enforce a maximum media volume limit, ensuring a consistent and safe auditory experience.
 
-## The Story Behind the App
-This app was **vibecoded** with love and a bit of frustration! 😅
+## Project Origin
+This application was developed as a practical solution for a common household challenge. It was originally designed to assist parents in managing device volume levels for younger children, specifically to prevent sudden volume spikes while consuming short-form content like YouTube Shorts. 
 
-It was originally created for my parents because my little sister has a habit of cranking the volume to the absolute maximum while watching YouTube Shorts. To save everyone's ears (and the phone's speakers), I built this tool to keep the volume at a safe, parent-approved level.
+By enforcing a hard limit at the system level, the app protects both the user's hearing and the device's hardware from prolonged exposure to maximum volume.
 
 ## Features
-- **Strict Volume Limiting**: Set a percentage and the app will ensure the media volume never exceeds it.
-- **Event-Driven & Efficient**: Uses Android's `ContentObserver` to listen for volume changes. It stays completely idle until you press a volume button, making it extremely battery and RAM friendly.
-- **Persistent Service**: Runs as a foreground service with a low-priority notification to ensure Android doesn't kill it.
-- **Battery Optimization Aware**: Includes a prompt to ignore battery optimizations for 100% reliability.
-- **Multilingual**: Supports both **English** and **Arabic**, automatically following your device's language.
-- **Visual Feedback**: Clean, Material 3 UI with smooth animations and scale-based button feedback.
+- **Deterministic Volume Control**: Dynamically intercepts and corrects any attempt to exceed the user-defined volume threshold.
+- **Resource Optimized**: Built using an event-driven `ContentObserver` architecture. The service remains in a low-power state, activating only when a system volume change is detected.
+- **Persistent Foreground Service**: Utilizes a low-priority notification to maintain service integrity without cluttering the user's active notification space.
+- **Battery Optimization Compatibility**: Includes built-in logic to request battery optimization exemptions, ensuring 100% reliability on aggressive power-management systems (e.g., Android 14/15).
+- **Localized Interface**: Full support for **English** and **Arabic** (RTL), automatically adapting to the system locale.
+- **Modern Material 3 UI**: Features a clean, accessible interface with scale-based haptic/visual feedback on interactive elements.
 
-## F-Droid Compatibility
-This app is designed to be fully open-source friendly:
-- **No Proprietary Binary Blobs**: All icons and resources are local.
-- **No Tracking/Analytics**: 100% private.
-- **Standard Build System**: Uses standard Gradle/Kotlin DSL.
-- **Optimized Resources**: All images have been optimized and resized using FFmpeg for minimum footprint.
+## F-Droid & Open Source Standards
+The codebase is structured for transparency and ease of audit:
+- **Zero Dependencies on Proprietary Blobs**: All assets and icons are locally hosted and optimized.
+- **Privacy-First**: No telemetry, no analytics, and no network permissions required.
+- **Standard Toolchain**: Uses the latest Gradle/Kotlin DSL standards for reproducible builds.
 
 ## Credits
-- **Vibecoded by Gemini CLI** for the developer.
-- Originally made for my parents to survive the YouTube Shorts volume wars.
+- **Developed by Gemini CLI** for the project owner.
+- Conceived as a tool for parental control and hearing safety.
 
 ---
-*Note: This repository is currently private and will be moved to a public, open-source license soon.*
+*Note: This repository is currently private and will be transitioned to a public open-source license in the future.*
