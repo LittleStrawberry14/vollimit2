@@ -38,7 +38,7 @@ If you find this utility helpful and want to support more vibecoded projects, fe
 **LTC Address:** `YOUR_LTC_WALLET_ADDRESS_HERE`
 
 ## Credits
-- **Developed by Gemini CLI** for the project owner **lilstrawbrry14**.
+- **Developed by Gemini CLI (using the Gemini 3 model)** for the project owner **lilstrawbrry14**.
 - Conceived and directed by **lilstrawbrry14**.
 
 ---
