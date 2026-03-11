@@ -29,7 +29,7 @@ The codebase is structured for transparency and ease of audit:
 ## License & Permissions
 This project is licensed under the **MIT License**. 
 
-You are free to copy, modify, and distribute the software as you wish ("copy it and shit"). However, you **must** provide attribution to the original author (**lilstrawbrry14**) in any copies or substantial portions of the software.
+You are free to copy, modify, and distribute the software as you wish. However, you **must** provide attribution to the original author (**lilstrawbrry14**) in any copies or substantial portions of the software.
 
 ## Support the Developer
 If you find this utility helpful and want to support more vibecoded projects, feel free to drop some LTC here:
