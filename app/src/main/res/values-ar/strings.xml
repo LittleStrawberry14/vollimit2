@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">محدد الصوت</string>
+    <string name="volume_limit">حد الصوت: %1$d%%</string>
+    <string name="start">بدء</string>
+    <string name="stop">إيقاف</string>
+    <string name="settings">الإعدادات</string>
+    <string name="change_language">تغيير اللغة</string>
+    <string name="status_active">نشط</string>
+    <string name="notification_title">محدد الصوت مفعل</string>
+    <string name="notification_text">جاري تحديد مستوى الصوت إلى %1$d%%</string>
+    <string name="language_english">English (الإنجليزية)</string>
+    <string name="language_arabic">العربية</string>
+    <string name="battery_optimization_title">تحسين البطارية</string>
+    <string name="battery_optimization_message">لضمان عمل محدد الصوت في الخلفية، يرجى السماح للتطبيق بتجاهل تحسينات البطارية.</string>
+    <string name="allow">سماح</string>
+    <string name="ignore">تجاهل</string>
+</resources>
