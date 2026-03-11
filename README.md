@@ -31,8 +31,8 @@ This project is licensed under the **MIT License**.
 
 You are free to copy, modify, and distribute the software as you wish. However, you **must** provide attribution to the original author (**lilstrawbrry14**) in any copies or substantial portions of the software.
 
-## Support the Developer
-If you find this utility helpful and want to support more vibecoded projects, feel free to drop some LTC here:
+## Support Me
+If you find this utility helpful and want to support me, feel free to send me some LTC here:
 
 **LTC Address:** `ltc1qhxhp64rdnx7r2ynljy3zj6xgzdw9cfvg5glzjt`
 
