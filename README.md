@@ -19,7 +19,6 @@ By enforcing a hard limit, the app protects both the user's hearing and the devi
 - **Persistent Foreground Service**: Utilizes a low-priority notification to maintain service integrity without cluttering the user's active notification space.
 - **Battery Optimization Compatibility**: Includes built-in logic to request battery optimization exemptions, ensuring 100% reliability on aggressive power-management systems (e.g., Android 14/15).
 - **Localized Interface**: Full support for **English** and **Arabic** (RTL), automatically adapting to the system locale.
-- **Modern Material 3 UI**: Clean interface with smooth, scale-based feedback on interactive elements.
 
 ## Open Source Standards
 The codebase is structured for transparency and ease of audit:
