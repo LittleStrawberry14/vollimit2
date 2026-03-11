@@ -4,6 +4,8 @@
 
 A lightweight, efficient Android utility designed to enforce a maximum media volume limit, ensuring a consistent and safe auditory experience.
 
+This project is **100% vibecoded**—built entirely through interactive AI-assisted development to solve a real-world problem with speed and precision.
+
 ## Project Origin
 This application was developed as a practical solution for a common household challenge. It was originally designed to assist parents in managing device volume levels for younger children, specifically to prevent sudden volume spikes while consuming short-form content like YouTube Shorts. 
 
@@ -23,9 +25,16 @@ The codebase is structured for transparency and ease of audit:
 - **Privacy-First**: No telemetry, no analytics, and no network permissions required.
 - **Standard Toolchain**: Uses the latest Gradle/Kotlin DSL standards for reproducible builds.
 
+## License & Permissions
+This project is licensed under the **MIT License**. 
+
+You are free to copy, modify, and distribute the software as you wish ("copy it and shit"). However, you **must** provide attribution to the original author (**lilstrawbrry14**) in any copies or substantial portions of the software.
+
 ## Credits
 - **Developed by Gemini CLI** for the project owner.
-- Conceived as a tool for parental control and hearing safety.
+- Conceived and directed by **lilstrawbrry14**.
 
 ---
 *Note: This repository is currently private and will be transitioned to a public open-source license in the future.*
+
+*This README was written by Gemini.*
